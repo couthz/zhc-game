@@ -1,0 +1,4 @@
+repository "zhc-game@couthz@cloud"
+  path "/"
+    br "/main"
+    co "/main"
